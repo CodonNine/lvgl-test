@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BSP/font.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BSP/lcd.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BSP/lcd.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/myiic.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/myiic.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/Src/myiic.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User/24CXX/24cxx.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User/LCD/lcd.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User/LCD/lcd.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User/touch/ft5206.c" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

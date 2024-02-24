@@ -1,0 +1,1 @@
+F:\tools\arm-gnu-toolchain\bin\arm-none-eabi-gcc.exe -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -Wl,-gc-sections,--print-memory-usage,-Map=D:/project/user-proj/tftlcd/cmake-build-debug/f407zgt6.map -mcpu=cortex-m4 -mthumb -mthumb-interwork -T D:/project/user-proj/tftlcd/STM32F407ZGTX_FLASH.ld @CMakeFiles\f407zgt6.elf.dir\objects1.rsp -o f407zgt6.elf 
